@@ -107,7 +107,7 @@ Auto_Jobs_Applier_AIHawk steps in as a game-changing solution to these challenge
 
 ## Installation
 
-**Confirmed succesfull runs on the following:**
+**Confirmed successful runs on the following:**
 - Operating Systems:
   - Windows 10
   - Ubuntu 22
@@ -556,6 +556,11 @@ Using this folder as a guide can be particularly helpful for:
   If you want to use a specific PDF resume for all applications, place your resume PDF in the `data_folder` directory and run the bot with the `--resume` option:
   ```bash
   python main.py --resume /path/to/your/resume.pdf
+  ```
+- **Using the colled mode:**
+  If you want to collect job data only to perform any type of data analytics you can use the bot with the `--collect` option. This will store in output/data.json file all data found from linkedin jobs offers.
+  ```bash
+  python main.py --collect
   ```
 
 

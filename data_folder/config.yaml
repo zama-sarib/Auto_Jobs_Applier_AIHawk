@@ -47,6 +47,7 @@ job_applicants_threshold:
   min_applicants: 0
   max_applicants: 200
 
+
 llm_model_type: gemini
 # llm_model: 'gemini-1.5-flash-latest'
 llm_model: 'gemini-1.5-pro'
