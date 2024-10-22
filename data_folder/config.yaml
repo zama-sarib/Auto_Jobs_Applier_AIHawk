@@ -24,8 +24,9 @@ date:
   24 hours: true
 
 positions:
-  - data engineer
-  - Big data engineer
+  - service desk
+  - l1, l2 support
+  
 
 locations:
   - India
@@ -44,7 +45,7 @@ title_blacklist:
 
 job_applicants_threshold:
   min_applicants: 0
-  max_applicants: 30
+  max_applicants: 200
 
 llm_model_type: gemini
 # llm_model: 'gemini-1.5-flash-latest'

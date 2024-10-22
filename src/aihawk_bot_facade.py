@@ -6,6 +6,7 @@ class AIHawkBotState:
         logger.debug("Initializing AIHawkBotState")
         self.reset()
 
+
     def reset(self):
         logger.debug("Resetting AIHawkBotState")
         self.credentials_set = False

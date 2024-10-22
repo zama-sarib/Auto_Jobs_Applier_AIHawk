@@ -1,20 +1,33 @@
 personal_information:
-  name: "Sarib"
+  name: "Kasif"
   surname: "Zama"
-  date_of_birth: "03/04/1999"
+  date_of_birth: "22/10/1994"
   country: "India"
   city: "Bengaluru"
   address: "Nagavara, Bengaluru, Karnataka, India"
   zip_code: "560045"
   phone_prefix: "+91"
-  phone: "9040334635"
-  email: "zama.sarib@gmail.com"
-  github: "https://github.com/zama-sarib"
-  linkedin: "https://www.linkedin.com/in/zama-sarib/"
+  phone: "7852901594"
+  email: "kasif.zama007@gmail.com"
+  
+
+# education_details:
+#   - education_level: "Bachelor of Technology"
+#     institution: "Padmanava college of engineering"
+#     field_of_study: "Computer Science Engineering"
+    
+#     year_of_completion: "2019"
+#     exam:
+#       exam_name_1: "Grade"
+#       exam_name_2: "Grade"
+#       exam_name_3: "Grade"
+#       exam_name_4: "Grade"
+#       exam_name_5: "Grade"
+#       exam_name_6: "Grade"
 
 education_details:
   - education_level: "Bachelor of Technology"
-    institution: "Veer Surendra Sai University of Technology"
+    institution: "Padmanava college of engineering"
     field_of_study: "Computer Science Engineering"
     final_evaluation_grade: "9.47/10"
     start_date: "Aug, 2018"
@@ -27,10 +40,13 @@ education_details:
       exam_name_5: "A+"
       exam_name_6: "A+"
 
+    
+      
+
 experience_details:
-  - position: "Associate Data Engineer"
-    company: "Commonwealth Bank of Australia"
-    employment_period: "May, 2024"
+  - position: "Analyst"
+    company: "coforge - commonwealth bank of Australia(Client)"
+    employment_period: "Nov, 2023"
     location: "Bengaluru, India"
     industry: "Fintech"
     key_responsibilities:
@@ -57,6 +73,7 @@ experience_details:
       - "PySpark"
       - "SQL"
 
+      
 projects:
   - name: "HealthCare Prediction System"
     description: "This is AI based healthcare prediction system. It predicts whether a person is going to have health issue or not"
